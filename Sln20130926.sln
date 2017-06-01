@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01人员信息-作业", "01人员信息-作业\01人员信息-作业.csproj", "{67C46604-6FEF-456E-9649-7179F1672989}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01压缩与解压", "01压缩与解压\01压缩与解压.csproj", "{C5E023A8-AFCF-43ED-8B92-3FE3A356FAAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03对象序列化", "03对象序列化\03对象序列化.csproj", "{23C3F2B6-A171-485D-89E1-184EB38B940D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04二进制序列化", "04二进制序列化\04二进制序列化.csproj", "{31241201-A5E2-43D0-98E6-020B303A45D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05反序列化", "05反序列化\05反序列化.csproj", "{00B00A48-4F38-468C-A7D5-8239A13C5C18}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "序列化与反序列化练习", "序列化与反序列化练习", "{64AE96BA-AC47-42B4-80B6-E7B38877D63D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01序列化练习", "01序列化练习\01序列化练习.csproj", "{8C8FBD69-9D56-4B7A-AE3E-670D9A4FFEF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02反序列化", "02反序列化\02反序列化.csproj", "{AEA86DD3-1B71-4CD5-9116-F65B06FF3465}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06正则表达式", "06正则表达式\06正则表达式.csproj", "{EA3B6A24-C15A-49DA-A29E-1EAE7D2FDC08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67C46604-6FEF-456E-9649-7179F1672989}.Debug|x86.ActiveCfg = Debug|x86
+		{67C46604-6FEF-456E-9649-7179F1672989}.Debug|x86.Build.0 = Debug|x86
+		{67C46604-6FEF-456E-9649-7179F1672989}.Release|x86.ActiveCfg = Release|x86
+		{67C46604-6FEF-456E-9649-7179F1672989}.Release|x86.Build.0 = Release|x86
+		{C5E023A8-AFCF-43ED-8B92-3FE3A356FAAA}.Debug|x86.ActiveCfg = Debug|x86
+		{C5E023A8-AFCF-43ED-8B92-3FE3A356FAAA}.Debug|x86.Build.0 = Debug|x86
+		{C5E023A8-AFCF-43ED-8B92-3FE3A356FAAA}.Release|x86.ActiveCfg = Release|x86
+		{C5E023A8-AFCF-43ED-8B92-3FE3A356FAAA}.Release|x86.Build.0 = Release|x86
+		{23C3F2B6-A171-485D-89E1-184EB38B940D}.Debug|x86.ActiveCfg = Debug|x86
+		{23C3F2B6-A171-485D-89E1-184EB38B940D}.Debug|x86.Build.0 = Debug|x86
+		{23C3F2B6-A171-485D-89E1-184EB38B940D}.Release|x86.ActiveCfg = Release|x86
+		{23C3F2B6-A171-485D-89E1-184EB38B940D}.Release|x86.Build.0 = Release|x86
+		{31241201-A5E2-43D0-98E6-020B303A45D6}.Debug|x86.ActiveCfg = Debug|x86
+		{31241201-A5E2-43D0-98E6-020B303A45D6}.Debug|x86.Build.0 = Debug|x86
+		{31241201-A5E2-43D0-98E6-020B303A45D6}.Release|x86.ActiveCfg = Release|x86
+		{31241201-A5E2-43D0-98E6-020B303A45D6}.Release|x86.Build.0 = Release|x86
+		{00B00A48-4F38-468C-A7D5-8239A13C5C18}.Debug|x86.ActiveCfg = Debug|x86
+		{00B00A48-4F38-468C-A7D5-8239A13C5C18}.Debug|x86.Build.0 = Debug|x86
+		{00B00A48-4F38-468C-A7D5-8239A13C5C18}.Release|x86.ActiveCfg = Release|x86
+		{00B00A48-4F38-468C-A7D5-8239A13C5C18}.Release|x86.Build.0 = Release|x86
+		{8C8FBD69-9D56-4B7A-AE3E-670D9A4FFEF9}.Debug|x86.ActiveCfg = Debug|x86
+		{8C8FBD69-9D56-4B7A-AE3E-670D9A4FFEF9}.Debug|x86.Build.0 = Debug|x86
+		{8C8FBD69-9D56-4B7A-AE3E-670D9A4FFEF9}.Release|x86.ActiveCfg = Release|x86
+		{8C8FBD69-9D56-4B7A-AE3E-670D9A4FFEF9}.Release|x86.Build.0 = Release|x86
+		{AEA86DD3-1B71-4CD5-9116-F65B06FF3465}.Debug|x86.ActiveCfg = Debug|x86
+		{AEA86DD3-1B71-4CD5-9116-F65B06FF3465}.Debug|x86.Build.0 = Debug|x86
+		{AEA86DD3-1B71-4CD5-9116-F65B06FF3465}.Release|x86.ActiveCfg = Release|x86
+		{AEA86DD3-1B71-4CD5-9116-F65B06FF3465}.Release|x86.Build.0 = Release|x86
+		{EA3B6A24-C15A-49DA-A29E-1EAE7D2FDC08}.Debug|x86.ActiveCfg = Debug|x86
+		{EA3B6A24-C15A-49DA-A29E-1EAE7D2FDC08}.Debug|x86.Build.0 = Debug|x86
+		{EA3B6A24-C15A-49DA-A29E-1EAE7D2FDC08}.Release|x86.ActiveCfg = Release|x86
+		{EA3B6A24-C15A-49DA-A29E-1EAE7D2FDC08}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8C8FBD69-9D56-4B7A-AE3E-670D9A4FFEF9} = {64AE96BA-AC47-42B4-80B6-E7B38877D63D}
+		{AEA86DD3-1B71-4CD5-9116-F65B06FF3465} = {64AE96BA-AC47-42B4-80B6-E7B38877D63D}
+	EndGlobalSection
+EndGlobal
